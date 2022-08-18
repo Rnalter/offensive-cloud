@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoffensive_cloud=self.webpackChunkoffensive_cloud||[]).push([[1758],{2737:e=>{e.exports=JSON.parse('{"permalink":"/offensive-cloud/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
