@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Offensive Cloud',
+  tagline: 'Offensive Cloud',
   url: 'https://github.com',
   baseUrl: '/offensive-cloud/',
   onBrokenLinks: 'throw',
@@ -18,7 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Rnalter', // Usually your GitHub org/user name.
   projectName: 'offensive-cloud', // Usually your repo name.
-  
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
