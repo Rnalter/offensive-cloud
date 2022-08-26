@@ -1,0 +1,1 @@
+All attacks related to Azure blobs
