@@ -2,13 +2,17 @@
 sidebar_position: 1
 ---
 
-# This website is divded into three main cloud hacking
+# Intro
+
+Let's discover **Get Hacking Cloud**.
+
+## Getting Started
+
+This guide is divded into three main cloud hacking
 
 **AWS**
 **AZURE**
 **GCP**
-
-## Getting Started
 
 Get started by **creating a new site**.
 
