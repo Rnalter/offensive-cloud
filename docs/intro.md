@@ -10,7 +10,7 @@ Let's discover **Get Hacking Cloud**.
 
 This guide is divded into three main cloud hacking
 
-[**AWS**](AWS)
+**AWS**
 
 **AZURE**
 
